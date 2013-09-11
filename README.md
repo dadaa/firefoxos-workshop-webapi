@@ -52,4 +52,6 @@ notification が出れば成功。
 ![night.JPG](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/night.JPG)
 
 ![noon.JPG](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/noon.JPG)
+
+* パッケージ: [worldmap.zip](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/worldmap.zip)
 ---
