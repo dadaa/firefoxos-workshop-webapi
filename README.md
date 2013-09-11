@@ -19,7 +19,7 @@ notification が出れば成功。
 ![notification.png](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/notification.png)
 ---
 # WebAPI を使ってみる
-以下のページを参考に、index.html, main.js, main.css を編集して、WebAPI を取り込んでみる。
+以下のページを参考に、index.html, main.js, main.css を編集して、WebAPI を取り込んでみましょう。
 
 [https://developer.mozilla.org/ja/docs/WebAPI](https://developer.mozilla.org/ja/docs/WebAPI)
 ---
@@ -47,5 +47,9 @@ notification が出れば成功。
 ![webapitests.JPG](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/webapitests.JPG)
 ---
 # WebAPI を使ったサンプルアプリを作ってみる
+実装例として、Ambient Light センサを用いたアプリケーションを紹介します。このアプリケーションは、Ambient Light センサで取得した照度に応じて、世界地図が昼や夜の風景に移り変わり、実環境とウェブの交じり合ったコンテンツを作っています。
 
+![night.JPG](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/night.JPG)
+
+![noon.JPG](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/noon.JPG)
 ---
