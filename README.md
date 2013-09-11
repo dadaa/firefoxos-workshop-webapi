@@ -59,3 +59,10 @@ notification が出れば成功。
 
 * パッケージ: [worldmap.zip](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/worldmap.zip)
 ---
+# Firefox Marketplace に登録するには？
+[https://developer.mozilla.org/ja/docs/Web/Apps/Submitting_an_app?redirectlocale=ja&redirectslug=Apps%2FSubmitting_an_app](https://developer.mozilla.org/ja/docs/Web/Apps/Submitting_an_app?redirectlocale=ja&redirectslug=Apps%2FSubmitting_an_app)
+
+をご覧くださいませ。
+---
+# おつかれさまでした！
+---
