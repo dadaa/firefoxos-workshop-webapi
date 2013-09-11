@@ -2,6 +2,10 @@
 ## firefoxos,workshop,webapi
 This document is made by [gitfab](http://gitfab.org)
 ---
+# サムネイル
+![night.JPG](https://raw.github.com/dadaa/firefoxos-worksho-webapi/master/gitfab/resources/night.JPG)
+
+---
 # WebAPI を使ったアプリ
 Firefox OS では、html、css、JavaScript といったウェブ技術によって記述・構成されていきますが、既存のウェブアプリケーションとの相違点の一つは、デバイスとの連携ができる点であり、より魅力的なウェブアプリケーションを作る可能性を秘めていると考えます。ここでは、WebAPI を使った簡単なアプリのテンプレートや WebAPI の種類、許可などについて記述しています。
 ---
